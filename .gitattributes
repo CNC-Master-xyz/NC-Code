@@ -1,0 +1,5 @@
+*.nc  linguist-language=G-code
+*.h   linguist-language=G-code
+*.mpf linguist-language=G-code
+*.spf linguist-language=G-code
+*.min linguist-language=G-code
