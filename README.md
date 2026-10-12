@@ -1,2 +1,2 @@
 # NC-Code
-Various NC-Code for diffrent NC-Controls
+Various NC-Code for different NC-Controls
